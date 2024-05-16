@@ -1,0 +1,13 @@
+08:55:55.855 [main] INFO  com.tyss.demo.baseutil.BaseTest - 
+08:55:55.858 [main] INFO  com.tyss.demo.baseutil.BaseTest - Running locally JavaMail
+08:55:55.992 [main] INFO  com.tyss.demo.baseutil.BaseTest - Folder creation for Extent
+08:55:55.995 [main] INFO  com.tyss.demo.baseutil.BaseTest - ExtentDir:-D:\Demo\Demo/reports/Automation Report- 02_28_2023_08_55_55/Report/02_28_2023_08_55_55
+08:55:56.165 [main] INFO  com.tyss.demo.baseutil.BaseTest - Report Initiated
+08:55:56.166 [main] INFO  com.tyss.demo.baseutil.BaseTest - Screenshot Folder Created
+08:56:16.729 [main] INFO  com.tyss.demo.baseutil.BaseTest - Login To the App
+08:56:16.733 [main] INFO  com.tyss.demo.baseutil.BaseTest - Enter the value into User Name Text Box
+08:56:16.866 [main] INFO  com.tyss.demo.baseutil.BaseTest - Enter the value into Password Text Box
+08:56:17.078 [main] INFO  com.tyss.demo.baseutil.BaseTest - Verify Sign In Button is Clickable or Not
+08:56:37.524 [main] INFO  com.tyss.demo.baseutil.BaseTest - Succesfully Logged In
+08:56:37.612 [main] INFO  com.tyss.demo.baseutil.BaseTest - Verify Users Tab is Clickable or Not
+08:56:42.060 [main] INFO  com.tyss.demo.baseutil.BaseTest - Verify logout is Clickable or Not

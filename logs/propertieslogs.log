@@ -1,0 +1,8 @@
+[INFO ] 2020-09-10 12:48:25.675 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 12:48:25.757 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_12_48_25/HCL Report/09_10_2020_12_48_25
+[INFO ] 2020-09-10 12:48:26.137 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 12:48:26.140 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 12:48:38.476 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 12:48:38.496 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 12:48:38.700 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 12:48:39.195 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not

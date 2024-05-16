@@ -1,0 +1,614 @@
+[INFO ] 2020-09-10 14:02:44.773 [main] BaseTest - 
+[INFO ] 2020-09-10 14:02:44.811 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 14:02:45.202 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 14:02:45.224 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_14_02_45/HCL Report/09_10_2020_14_02_45
+[INFO ] 2020-09-10 14:02:45.601 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 14:02:45.606 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 14:03:15.914 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 14:03:15.946 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 14:03:19.441 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 14:03:22.774 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 14:08:01.025 [main] BaseTest - 
+[INFO ] 2020-09-10 14:08:01.046 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 14:08:01.557 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 14:08:01.586 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_14_08_01/HCL Report/09_10_2020_14_08_01
+[INFO ] 2020-09-10 14:08:02.312 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 14:08:02.329 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 14:08:12.877 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 14:08:12.895 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 14:08:13.174 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 14:08:13.782 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 14:18:06.978 [main] BaseTest - 
+[INFO ] 2020-09-10 14:18:07.046 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 14:18:07.909 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 14:18:07.992 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_14_18_07/HCL Report/09_10_2020_14_18_07
+[INFO ] 2020-09-10 14:18:08.867 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 14:18:08.872 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 14:18:43.028 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 14:18:43.065 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 14:18:43.442 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 14:18:44.831 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 14:19:03.546 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 14:37:54.106 [main] BaseTest - 
+[INFO ] 2020-09-10 14:37:54.145 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 14:37:54.720 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 14:37:54.753 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_14_37_54/HCL Report/09_10_2020_14_37_54
+[INFO ] 2020-09-10 14:37:55.402 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 14:37:55.410 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 14:38:27.792 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 14:38:27.883 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 14:38:31.847 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 14:38:33.291 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 14:38:42.331 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 14:41:49.629 [main] BaseTest - 
+[INFO ] 2020-09-10 14:41:49.724 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 14:41:50.283 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 14:41:50.321 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_14_41_50/HCL Report/09_10_2020_14_41_50
+[INFO ] 2020-09-10 14:41:50.988 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 14:41:50.992 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 14:42:11.814 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 14:42:11.833 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 14:42:12.125 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 14:42:12.841 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 14:42:17.452 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 14:45:10.528 [main] BaseTest - 
+[INFO ] 2020-09-10 14:45:10.549 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 14:45:11.059 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 14:45:11.091 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_14_45_11/HCL Report/09_10_2020_14_45_11
+[INFO ] 2020-09-10 14:45:11.841 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 14:45:11.850 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 14:45:34.066 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 14:45:34.088 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 14:45:34.643 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 14:45:35.701 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 14:45:38.991 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 14:47:15.493 [main] BaseTest - 
+[INFO ] 2020-09-10 14:47:15.515 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 14:47:16.106 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 14:47:16.135 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_14_47_16/HCL Report/09_10_2020_14_47_16
+[INFO ] 2020-09-10 14:47:16.640 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 14:47:16.644 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 14:47:28.570 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 14:47:28.594 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 14:47:28.876 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 14:47:29.606 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 14:47:33.095 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 15:07:17.546 [main] BaseTest - 
+[INFO ] 2020-09-10 15:07:17.580 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 15:07:18.131 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 15:07:18.301 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_15_07_18/HCL Report/09_10_2020_15_07_18
+[INFO ] 2020-09-10 15:07:19.038 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 15:07:19.041 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 15:07:51.618 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 15:07:51.632 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 15:07:54.190 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 15:07:55.287 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 15:08:12.482 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 16:11:40.017 [main] BaseTest - 
+[INFO ] 2020-09-10 16:11:40.051 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 16:11:40.547 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 16:11:40.642 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_16_11_40/HCL Report/09_10_2020_16_11_40
+[INFO ] 2020-09-10 16:11:41.366 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 16:11:41.369 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 16:12:01.004 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 16:20:55.011 [main] BaseTest - 
+[INFO ] 2020-09-10 16:20:55.032 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 16:20:55.503 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 16:20:55.565 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_16_20_55/HCL Report/09_10_2020_16_20_55
+[INFO ] 2020-09-10 16:20:56.039 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 16:20:56.042 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 16:21:22.739 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 16:21:22.752 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 16:21:26.443 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 16:21:30.956 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 16:21:33.007 [TestNG-tests-1] BaseTest - Executing sendMail method
+[INFO ] 2020-09-10 16:26:36.012 [main] BaseTest - 
+[INFO ] 2020-09-10 16:26:36.028 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 16:26:36.389 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 16:26:36.408 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_16_26_36/HCL Report/09_10_2020_16_26_36
+[INFO ] 2020-09-10 16:26:36.787 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 16:26:36.790 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 16:30:19.087 [main] BaseTest - 
+[INFO ] 2020-09-10 16:30:19.180 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 16:30:19.565 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 16:30:19.585 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_16_30_19/HCL Report/09_10_2020_16_30_19
+[INFO ] 2020-09-10 16:30:20.496 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 16:30:20.499 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 16:30:58.887 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 16:30:58.945 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 16:31:00.523 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 16:31:01.246 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 16:42:27.771 [main] BaseTest - 
+[INFO ] 2020-09-10 16:42:27.805 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 16:42:28.299 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 16:42:28.323 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_16_42_28/HCL Report/09_10_2020_16_42_28
+[INFO ] 2020-09-10 16:42:28.892 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 16:42:28.896 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 16:42:59.799 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 16:42:59.827 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 16:43:00.763 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 16:43:01.595 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 16:43:02.365 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 16:45:02.113 [main] BaseTest - 
+[INFO ] 2020-09-10 16:45:02.165 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 16:45:02.868 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 16:45:03.057 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_16_45_03/HCL Report/09_10_2020_16_45_03
+[INFO ] 2020-09-10 16:45:03.948 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 16:45:03.953 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 16:45:31.178 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 16:45:31.195 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 16:45:31.651 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 16:45:32.310 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 16:45:32.958 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 16:50:09.805 [main] BaseTest - 
+[INFO ] 2020-09-10 16:50:10.287 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 16:50:11.890 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 16:50:12.545 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_16_50_12/HCL Report/09_10_2020_16_50_12
+[INFO ] 2020-09-10 16:50:14.101 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 16:50:14.104 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 16:50:35.692 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 16:50:35.724 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 16:50:36.352 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 16:50:37.488 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 16:50:38.493 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:27:35.292 [main] BaseTest - 
+[INFO ] 2020-09-10 17:27:35.337 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 17:27:36.017 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 17:27:36.049 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_17_27_36/HCL Report/09_10_2020_17_27_36
+[INFO ] 2020-09-10 17:27:36.787 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 17:27:36.791 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 17:28:19.315 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 17:28:19.429 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 17:28:22.192 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 17:28:23.403 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 17:46:07.319 [main] BaseTest - 
+[INFO ] 2020-09-10 17:46:07.393 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 17:46:08.597 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 17:46:08.829 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_17_46_08/HCL Report/09_10_2020_17_46_08
+[INFO ] 2020-09-10 17:46:10.523 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 17:46:10.527 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 17:47:33.902 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 17:47:33.957 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 17:47:34.780 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 17:47:35.979 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 17:47:38.117 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:47:56.800 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:47:57.455 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:54:25.790 [main] BaseTest - 
+[INFO ] 2020-09-10 17:54:25.846 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 17:54:26.721 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 17:54:26.842 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_17_54_26/HCL Report/09_10_2020_17_54_26
+[INFO ] 2020-09-10 17:54:27.665 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 17:54:27.668 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 17:55:11.676 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 17:55:11.712 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 17:55:13.756 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 17:55:15.599 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 17:55:17.925 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:55:34.049 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:55:34.619 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:57:11.937 [main] BaseTest - 
+[INFO ] 2020-09-10 17:57:11.961 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 17:57:12.636 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 17:57:12.657 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_17_57_12/HCL Report/09_10_2020_17_57_12
+[INFO ] 2020-09-10 17:57:13.208 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 17:57:13.212 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 17:57:28.362 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 17:57:28.395 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 17:57:29.249 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 17:57:29.893 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 17:57:32.171 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:57:37.659 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 17:57:38.332 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:01:47.575 [main] BaseTest - 
+[INFO ] 2020-09-10 18:01:47.597 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:01:48.297 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:01:48.345 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_01_48/HCL Report/09_10_2020_18_01_48
+[INFO ] 2020-09-10 18:01:49.140 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:01:49.145 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:02:09.858 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:02:09.872 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:02:10.046 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:02:10.545 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:02:12.196 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:02:17.650 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:02:18.312 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:05:57.573 [main] BaseTest - 
+[INFO ] 2020-09-10 18:05:57.617 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:05:58.837 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:05:58.863 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_05_58/HCL Report/09_10_2020_18_05_58
+[INFO ] 2020-09-10 18:05:59.674 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:05:59.678 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:06:22.088 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:06:22.108 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:06:22.442 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:06:23.363 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:06:26.253 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:06:34.211 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:06:35.614 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:14:44.594 [main] BaseTest - 
+[INFO ] 2020-09-10 18:14:44.632 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:14:45.254 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:14:45.282 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_14_45/HCL Report/09_10_2020_18_14_45
+[INFO ] 2020-09-10 18:14:45.808 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:14:45.811 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:15:12.177 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:15:12.218 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:15:15.269 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:15:18.518 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:15:22.091 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:15:26.279 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:15:26.841 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 18:16:37.969 [main] BaseTest - 
+[INFO ] 2020-09-10 18:16:38.006 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:16:38.658 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:16:38.684 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_16_38/HCL Report/09_10_2020_18_16_38
+[INFO ] 2020-09-10 18:16:39.216 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:16:39.220 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:16:54.911 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:16:54.942 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:16:55.172 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:16:55.675 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:18:02.311 [main] BaseTest - 
+[INFO ] 2020-09-10 18:18:02.347 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:18:03.015 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:18:03.040 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_18_03/HCL Report/09_10_2020_18_18_03
+[INFO ] 2020-09-10 18:18:03.590 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:18:03.593 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:18:20.951 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:18:20.968 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:18:21.175 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:18:22.000 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:23:12.507 [main] BaseTest - 
+[INFO ] 2020-09-10 18:23:12.538 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:23:13.171 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:23:13.202 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_23_13/HCL Report/09_10_2020_18_23_13
+[INFO ] 2020-09-10 18:23:13.939 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:23:13.942 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:23:55.398 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:23:55.439 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:23:55.954 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:23:56.837 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:25:28.832 [main] BaseTest - 
+[INFO ] 2020-09-10 18:25:28.857 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:25:29.394 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:25:29.424 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_25_29/HCL Report/09_10_2020_18_25_29
+[INFO ] 2020-09-10 18:25:29.904 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:25:29.909 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:25:47.912 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:25:47.929 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:25:48.263 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:25:48.898 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:26:27.866 [main] BaseTest - 
+[INFO ] 2020-09-10 18:26:27.933 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:26:29.079 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:26:29.111 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_26_29/HCL Report/09_10_2020_18_26_29
+[INFO ] 2020-09-10 18:26:29.872 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:26:29.877 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:26:48.293 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:26:48.308 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:26:48.606 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:26:49.247 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:28:09.233 [main] BaseTest - 
+[INFO ] 2020-09-10 18:28:09.260 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:28:09.858 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:28:09.891 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_28_09/HCL Report/09_10_2020_18_28_09
+[INFO ] 2020-09-10 18:28:10.658 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:28:10.666 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:28:28.122 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:28:28.142 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:28:28.387 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:28:29.086 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:29:13.666 [main] BaseTest - 
+[INFO ] 2020-09-10 18:29:13.691 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:29:14.267 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:29:14.298 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_29_14/HCL Report/09_10_2020_18_29_14
+[INFO ] 2020-09-10 18:29:14.792 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:29:14.795 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:29:29.283 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:29:29.352 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:29:29.721 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:29:30.314 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 18:33:53.912 [main] BaseTest - 
+[INFO ] 2020-09-10 18:33:53.934 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 18:33:54.526 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 18:33:54.554 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_18_33_54/HCL Report/09_10_2020_18_33_54
+[INFO ] 2020-09-10 18:33:55.356 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 18:33:55.360 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 18:34:11.687 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 18:34:11.706 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 18:34:11.962 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 18:34:12.595 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 19:01:48.628 [main] BaseTest - 
+[INFO ] 2020-09-10 19:01:48.699 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 19:01:49.976 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 19:01:50.248 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_19_01_50/HCL Report/09_10_2020_19_01_50
+[INFO ] 2020-09-10 19:01:51.703 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 19:01:51.707 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 19:02:57.452 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 19:02:57.468 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 19:02:57.730 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 19:05:16.218 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 19:14:58.830 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:18:40.691 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:23:59.365 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:29:31.719 [main] BaseTest - 
+[INFO ] 2020-09-10 19:29:31.759 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 19:29:32.289 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 19:29:32.320 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_19_29_32/HCL Report/09_10_2020_19_29_32
+[INFO ] 2020-09-10 19:29:33.054 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 19:29:33.059 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 19:30:17.055 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 19:30:17.112 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 19:30:17.570 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 19:30:18.548 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 19:30:20.370 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:30:48.214 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:30:50.113 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:31:41.101 [main] BaseTest - 
+[INFO ] 2020-09-10 19:31:41.120 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 19:31:41.678 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 19:31:42.475 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_19_31_42/HCL Report/09_10_2020_19_31_42
+[INFO ] 2020-09-10 19:31:45.465 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 19:31:45.469 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 19:32:07.876 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 19:32:07.893 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 19:32:08.091 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 19:32:09.121 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 19:49:15.996 [main] BaseTest - 
+[INFO ] 2020-09-10 19:49:16.024 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 19:49:16.851 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 19:49:16.877 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_19_49_16/HCL Report/09_10_2020_19_49_16
+[INFO ] 2020-09-10 19:49:17.431 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 19:49:17.435 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 19:49:52.150 [main] BaseTest - 
+[INFO ] 2020-09-10 19:49:52.165 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 19:49:52.564 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 19:49:52.581 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_19_49_52/HCL Report/09_10_2020_19_49_52
+[INFO ] 2020-09-10 19:49:52.878 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 19:49:52.898 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 19:50:36.793 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 19:50:36.818 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 19:50:37.225 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 19:50:37.747 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 19:50:46.308 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:50:48.453 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:50:50.264 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 19:51:34.892 [main] BaseTest - 
+[INFO ] 2020-09-10 19:51:34.907 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 19:51:35.227 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 19:51:35.244 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_19_51_35/HCL Report/09_10_2020_19_51_35
+[INFO ] 2020-09-10 19:51:35.586 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 19:51:35.589 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 19:51:46.668 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 19:51:46.684 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 19:51:46.825 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 19:51:47.259 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 19:51:51.224 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 19:51:53.179 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 19:51:55.006 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 19:57:24.032 [main] BaseTest - 
+[INFO ] 2020-09-10 19:57:24.071 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 19:57:24.437 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 19:57:24.454 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_19_57_24/HCL Report/09_10_2020_19_57_24
+[INFO ] 2020-09-10 19:57:24.822 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 19:57:24.825 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 19:57:53.070 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 19:57:53.147 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 19:57:53.497 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 19:57:54.310 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 19:58:00.184 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 19:58:02.572 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 19:58:04.384 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:02:44.249 [main] BaseTest - 
+[INFO ] 2020-09-10 20:02:44.263 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:02:44.602 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:02:44.619 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_02_44/HCL Report/09_10_2020_20_02_44
+[INFO ] 2020-09-10 20:02:44.923 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:02:44.925 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:03:00.469 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 20:03:00.481 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 20:03:00.612 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 20:03:00.969 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 20:03:05.985 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:04:10.891 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:04:39.936 [main] BaseTest - 
+[INFO ] 2020-09-10 20:04:39.964 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:04:40.354 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:04:40.449 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_04_40/HCL Report/09_10_2020_20_04_40
+[INFO ] 2020-09-10 20:04:40.965 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:04:40.969 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:04:56.621 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 20:04:56.635 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 20:04:56.844 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 20:04:57.315 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 20:05:03.714 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:06:17.155 [main] BaseTest - 
+[INFO ] 2020-09-10 20:06:17.193 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:06:17.671 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:06:17.734 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_06_17/HCL Report/09_10_2020_20_06_17
+[INFO ] 2020-09-10 20:06:18.203 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:06:18.206 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:06:32.819 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 20:06:32.832 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 20:06:33.189 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 20:06:33.647 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 20:06:41.634 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:06:43.912 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:06:45.704 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:06:46.800 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:09:39.591 [main] BaseTest - 
+[INFO ] 2020-09-10 20:09:39.606 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:09:39.927 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:09:39.944 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_09_39/HCL Report/09_10_2020_20_09_39
+[INFO ] 2020-09-10 20:09:40.231 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:09:40.234 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:10:00.408 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 20:10:00.422 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 20:10:00.560 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 20:10:01.078 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 20:10:06.104 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:10:07.808 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:10:09.510 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:10:10.365 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:10:10.511 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-10 20:10:11.043 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:12:11.415 [main] BaseTest - 
+[INFO ] 2020-09-10 20:12:11.429 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:12:11.732 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:12:11.749 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_12_11/HCL Report/09_10_2020_20_12_11
+[INFO ] 2020-09-10 20:12:12.050 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:12:12.053 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:12:30.265 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 20:12:30.275 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 20:12:30.413 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 20:12:30.959 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 20:12:36.535 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:12:39.003 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:12:39.900 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:12:40.720 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:12:40.877 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-10 20:12:41.278 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:12:43.482 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:12:44.495 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:12:45.300 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:12:46.035 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:12:46.151 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-10 20:12:46.413 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:12:48.849 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:12:49.763 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:12:50.961 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:12:51.679 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:12:51.815 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-10 20:12:52.085 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:22:12.664 [main] BaseTest - 
+[INFO ] 2020-09-10 20:22:12.678 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:22:12.997 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:22:13.025 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_22_13/HCL Report/09_10_2020_20_22_13
+[INFO ] 2020-09-10 20:22:13.342 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:22:13.345 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:23:38.987 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:24:49.528 [main] BaseTest - 
+[INFO ] 2020-09-10 20:24:49.542 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:24:49.859 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:24:49.875 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_24_49/HCL Report/09_10_2020_20_24_49
+[INFO ] 2020-09-10 20:24:50.182 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:24:50.184 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:26:00.553 [main] BaseTest - 
+[INFO ] 2020-09-10 20:26:00.568 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:26:00.885 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:26:00.901 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_26_00/HCL Report/09_10_2020_20_26_00
+[INFO ] 2020-09-10 20:26:01.173 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:26:01.176 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:50:06.213 [main] BaseTest - 
+[INFO ] 2020-09-10 20:50:06.304 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-10 20:50:06.806 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-10 20:50:06.833 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\HCL_Demo_Framework\HCLPOC/reports/HCLAutomation Report- 09_10_2020_20_50_06/HCL Report/09_10_2020_20_50_06
+[INFO ] 2020-09-10 20:50:07.333 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-10 20:50:07.337 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-10 20:50:40.707 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-10 20:50:40.758 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-10 20:50:41.711 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-10 20:50:43.044 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-10 20:51:02.518 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:51:07.734 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:51:10.940 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:51:12.539 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:51:12.923 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-10 20:51:13.662 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:51:16.974 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:51:20.275 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:51:22.187 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:51:23.949 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:51:24.305 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-10 20:51:24.792 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:51:27.970 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-10 20:51:35.175 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-10 20:51:36.888 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-10 20:51:38.512 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-10 20:51:38.836 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-10 20:51:39.372 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:08:51.619 [main] BaseTest - 
+[INFO ] 2020-09-20 14:08:51.647 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-20 14:08:52.241 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-20 14:08:52.291 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\GridOneNew\HCLPOC (2)\HCLPOC/reports/HCLAutomation Report- 09_20_2020_14_08_52/HCL Report/09_20_2020_14_08_52
+[INFO ] 2020-09-20 14:08:52.809 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-20 14:08:52.812 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-20 14:09:58.125 [TestNG-tests-2] BaseTest - Login To the App
+[INFO ] 2020-09-20 14:09:58.212 [TestNG-tests-2] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-20 14:09:58.693 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-20 14:10:02.132 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-20 14:10:03.720 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-20 14:10:04.022 [TestNG-tests-2] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-20 14:10:05.687 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-20 14:10:06.868 [TestNG-tests-2] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-20 14:11:31.870 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:11:33.878 [TestNG-tests-2] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:11:49.473 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-20 14:11:54.112 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:11:55.742 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-20 14:11:56.024 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-20 14:11:56.595 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:12:03.593 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:12:05.637 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-20 14:12:06.624 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:12:07.528 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-20 14:12:07.659 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-20 14:12:07.934 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:12:10.101 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:12:11.321 [TestNG-tests-1] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-20 14:12:12.263 [TestNG-tests-1] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:12:27.703 [TestNG-tests-1] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-20 14:12:27.824 [TestNG-tests-1] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-20 14:12:28.135 [TestNG-tests-1] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:43:26.847 [main] BaseTest - 
+[INFO ] 2020-09-20 14:43:26.871 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-20 14:43:27.422 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-20 14:43:27.502 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\GridOneNew\HCLPOC (2)\HCLPOC/reports/HCLAutomation Report- 09_20_2020_14_43_27/HCL Report/09_20_2020_14_43_27
+[INFO ] 2020-09-20 14:43:28.293 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-20 14:43:28.296 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-20 14:44:05.843 [TestNG-tests-2] BaseTest - Login To the App
+[INFO ] 2020-09-20 14:44:05.843 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-20 14:44:05.865 [TestNG-tests-2] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-20 14:44:06.659 [TestNG-tests-2] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-20 14:44:06.909 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-20 14:44:07.082 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-20 14:44:07.760 [TestNG-tests-2] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-20 14:44:08.565 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-20 14:44:26.716 [TestNG-tests-2] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:44:27.011 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:44:31.597 [TestNG-tests-2] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-20 14:44:33.121 [TestNG-tests-2] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:44:34.694 [TestNG-tests-2] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-20 14:44:34.968 [TestNG-tests-2] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-20 14:44:35.577 [TestNG-tests-2] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:44:41.687 [TestNG-tests-2] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:44:43.446 [TestNG-tests-2] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-20 14:44:44.632 [TestNG-tests-2] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:44:45.629 [TestNG-tests-2] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-20 14:44:45.852 [TestNG-tests-2] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-20 14:44:46.309 [TestNG-tests-2] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:44:48.057 [TestNG-tests-2] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:44:49.436 [TestNG-tests-2] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-20 14:44:50.536 [TestNG-tests-2] BaseTest - Verify Create New Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:44:51.457 [TestNG-tests-2] BaseTest - Enter the value into Customer Name Text Box
+[INFO ] 2020-09-20 14:44:51.659 [TestNG-tests-2] BaseTest - -------------Scrolling till the Element------------
+[INFO ] 2020-09-20 14:44:52.095 [TestNG-tests-2] BaseTest - Verify Create Customer Button is Clickable or Not
+[INFO ] 2020-09-20 14:51:09.173 [main] BaseTest - 
+[INFO ] 2020-09-20 14:51:09.228 [main] BaseTest - Running locally JavaMail
+[INFO ] 2020-09-20 14:51:09.645 [main] BaseTest - Folder creation for Extent
+[INFO ] 2020-09-20 14:51:09.725 [main] BaseTest - ExtentDir:-C:\Users\User\Desktop\GridOneNew\HCLPOC (2)\HCLPOC/reports/HCLAutomation Report- 09_20_2020_14_51_09/HCL Report/09_20_2020_14_51_09
+[INFO ] 2020-09-20 14:51:10.245 [main] BaseTest - Report Initiated
+[INFO ] 2020-09-20 14:51:10.248 [main] BaseTest - Screenshot Folder Created
+[INFO ] 2020-09-20 14:51:40.466 [TestNG-tests-1] BaseTest - Login To the App
+[INFO ] 2020-09-20 14:51:40.468 [TestNG-tests-2] BaseTest - Login To the App
+[INFO ] 2020-09-20 14:51:40.522 [TestNG-tests-2] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-20 14:51:42.763 [TestNG-tests-1] BaseTest - Enter the value into User Name Text Box
+[INFO ] 2020-09-20 14:51:42.912 [TestNG-tests-1] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-20 14:51:43.109 [TestNG-tests-2] BaseTest - Enter the value into Password Text Box
+[INFO ] 2020-09-20 14:51:43.856 [TestNG-tests-1] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-20 14:51:44.705 [TestNG-tests-2] BaseTest - Verify Sign In Button is Clickable or Not
+[INFO ] 2020-09-20 14:51:56.966 [TestNG-tests-1] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:51:57.559 [TestNG-tests-2] BaseTest - Verify Reports Tab is Clickable or Not
+[INFO ] 2020-09-20 14:52:00.721 [TestNG-tests-2] BaseTest - Verify Task Tab is Clickable or Not
+[INFO ] 2020-09-20 14:52:04.155 [TestNG-tests-2] BaseTest - Verify Create New Customer Button is Clickable or Not

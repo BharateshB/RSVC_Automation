@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Login To the App]]>
+    </line>
+    <line>
+      <![CDATA[Enter the value into User Name Text Box]]>
+    </line>
+    <line>
+      <![CDATA[Enter the value into Password Text Box]]>
+    </line>
+    <line>
+      <![CDATA[Verify Sign In Button is Clickable or Not]]>
+    </line>
+    <line>
+      <![CDATA[Succesfully Logged In]]>
+    </line>
+    <line>
+      <![CDATA[Verify Users Tab is Clickable or Not]]>
+    </line>
+    <line>
+      <![CDATA[Verify logout is Clickable or Not]]>
+    </line>
+  </reporter-output>
+  <suite name="Demo" duration-ms="47491" started-at="2023-02-28T03:32:24Z" finished-at="2023-02-28T03:33:11Z">
+    <groups>
+    </groups>
+    <test name="PROJECT_Test1" duration-ms="47491" started-at="2023-02-28T03:32:24Z" finished-at="2023-02-28T03:33:11Z">
+      <class name="com.tyss.actitime.scripts.CreateUsers">
+        <test-method status="PASS" signature="createFiles()[pri:0, instance:com.tyss.actitime.scripts.CreateUsers@6591f517]" name="createFiles" is-config="true" duration-ms="172" started-at="2023-02-28T03:32:23Z" finished-at="2023-02-28T03:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFiles -->
+        <test-method status="PASS" signature="launchApp(java.lang.String)[pri:0, instance:com.tyss.actitime.scripts.CreateUsers@6591f517]" name="launchApp" is-config="true" duration-ms="17061" started-at="2023-02-28T03:32:24Z" finished-at="2023-02-28T03:32:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="setExtentReport(java.lang.reflect.Method)[pri:0, instance:com.tyss.actitime.scripts.CreateUsers@6591f517]" name="setExtentReport" is-config="true" duration-ms="1" started-at="2023-02-28T03:32:41Z" finished-at="2023-02-28T03:32:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tyss.actitime.scripts.CreateUsers.createRequisition(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method status="PASS" signature="createRequisition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tyss.actitime.scripts.CreateUsers@6591f517]" name="createRequisition" duration-ms="26507" started-at="2023-02-28T03:32:41Z" description="Create Users" data-provider="TestUsersDataProvider" finished-at="2023-02-28T03:33:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maruti]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brezza]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Steering Rod]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login To the App]]>
+            </line>
+            <line>
+              <![CDATA[Enter the value into User Name Text Box]]>
+            </line>
+            <line>
+              <![CDATA[Enter the value into Password Text Box]]>
+            </line>
+            <line>
+              <![CDATA[Verify Sign In Button is Clickable or Not]]>
+            </line>
+            <line>
+              <![CDATA[Succesfully Logged In]]>
+            </line>
+            <line>
+              <![CDATA[Verify Users Tab is Clickable or Not]]>
+            </line>
+            <line>
+              <![CDATA[Verify logout is Clickable or Not]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createRequisition -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.tyss.actitime.scripts.CreateUsers@6591f517]" name="closeBrowser" is-config="true" duration-ms="3074" started-at="2023-02-28T03:33:08Z" finished-at="2023-02-28T03:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="killTask(java.lang.String)[pri:0, instance:com.tyss.actitime.scripts.CreateUsers@6591f517]" name="killTask" is-config="true" duration-ms="10" started-at="2023-02-28T03:33:12Z" finished-at="2023-02-28T03:33:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killTask -->
+      </class> <!-- com.tyss.actitime.scripts.CreateUsers -->
+    </test> <!-- PROJECT_Test1 -->
+  </suite> <!-- Demo -->
+</testng-results>
