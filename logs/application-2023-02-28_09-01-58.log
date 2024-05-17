@@ -1,6 +1,0 @@
-09:01:58.131 [main] INFO  com.tyss.demo.baseutil.BaseTest - 
-09:01:58.135 [main] INFO  com.tyss.demo.baseutil.BaseTest - Running locally JavaMail
-09:01:58.272 [main] INFO  com.tyss.demo.baseutil.BaseTest - Folder creation for Extent
-09:01:58.275 [main] INFO  com.tyss.demo.baseutil.BaseTest - ExtentDir:-D:\Demo\Demo/reports/Automation Report- 02_28_2023_09_01_58/Report/02_28_2023_09_01_58
-09:01:58.414 [main] INFO  com.tyss.demo.baseutil.BaseTest - Report Initiated
-09:01:58.415 [main] INFO  com.tyss.demo.baseutil.BaseTest - Screenshot Folder Created
